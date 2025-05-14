@@ -1,0 +1,30 @@
+[
+  {
+    "name": "aryan ",
+    "rollNumber": "2210991376",
+    "email": "aryan12@gmail.com",
+    "groupNumber": "2",
+    "password": "aryan12"
+  },
+  {
+    "name": "Vishal",
+    "rollNumber": "2310991363",
+    "email": "vishal@gmail.com",
+    "groupNumber": "2",
+    "password": "vishal"
+  },
+  {
+    "name": "Abhinav",
+    "rollNumber": "2310990262",
+    "email": "abhi@gmail",
+    "groupNumber": "2",
+    "password": "abhi"
+  },
+  {
+    "name": "Akshit",
+    "rollNumber": "2310990274",
+    "email": "abhi@gmail",
+    "groupNumber": "2",
+    "password": "ash"
+  }
+]
